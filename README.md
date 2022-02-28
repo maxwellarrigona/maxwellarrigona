@@ -21,16 +21,16 @@
 ----
 
 <a href="https://www.linkedin.com/in/maxwell--johnson/">
-  <img align="left" alt="Maxwell's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Maxwell's LinkedIn" width="20px" src="" />
 </a>
 <a href="https://medium.com/@maxwellarrigona">
-  <img align="left" alt="Maxwell's Medium Page" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Maxwell's Medium Page" width="20px" src="" />
 </a>
 <a href="https://dev.to/maxwellarrigona">
-  <img align="left" alt="Maxwell's Dev.to Page" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  <img align="left" alt="Maxwell's Dev.to Page" width="20px" src="" />
 </a>
 <a href="https://www.kaggle.com/maxwellarrigona">
-  <img align="left" alt="Maxwell's Kaggle Page" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+  <img align="left" alt="Maxwell's Kaggle Page" width="20px" src="" />
 </a>
 
 
