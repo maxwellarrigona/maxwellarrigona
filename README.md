@@ -17,7 +17,7 @@
 
 #### Aspiring Analytics Engineer &#12299;_currently learning more about dbt, snowflake, and SQL_
 ----
-### Here's where you can find some of my other work. 
+### Check out my other work:
 
 <a href="https://medium.com/@maxwellarrigona">
   <img align="left" alt="Maxwell's Medium Page" width="42px" src="https://github.com/maxwellarrigona/maxwellarrigona/blob/main/icons/medium.svg" />
