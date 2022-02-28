@@ -2,7 +2,7 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![postgres](https://img.shields.io/static/v1?logo=postgres&label=&message=postgres&color=111&logoColor=AAA&style=flat-square&link=)
+![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=111&logoColor=AAA&style=flat-square&link=)
 ![R](https://img.shields.io/static/v1?logo=R&label=&message=R&color=111&logoColor=AAA&style=flat-square&link=)
 
 &nbsp;&nbsp;&nbsp;
