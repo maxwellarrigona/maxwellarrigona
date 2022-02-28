@@ -17,7 +17,7 @@
 
 #### Aspiring Analytics Engineer &#12299;_currently learning more about dbt, snowflake, and SQL_
 ----
-### Here's some of my other work.
+### Here's where you can find some of my other work. 
 
 <a href="https://medium.com/@maxwellarrigona">
   <img align="left" alt="Maxwell's Medium Page" width="42px" src="https://github.com/maxwellarrigona/maxwellarrigona/blob/main/icons/medium.svg" />
@@ -34,5 +34,4 @@
 <a href="https://www.kaggle.com/maxwellarrigona">
   <img align="left" alt="Maxwell's Kaggle Page" width="50px" src="https://github.com/maxwellarrigona/maxwellarrigona/blob/main/icons/kaggle.svg" />
 </a>
-&nbsp;&nbsp;
 
