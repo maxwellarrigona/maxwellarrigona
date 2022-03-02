@@ -7,21 +7,12 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **data modeling**
-
-- 👨‍💻 All of my projects will be available at [maxwellarrigona.com](maxwellarrigona.com)
-
-- 📝 I will be writing articles on [https://medium.com/@maxwellarrigona](https://medium.com/@maxwellarrigona)
-
 - 💬 Ask me about **SQL queries, data joins, and tacos**
 
 - 📫 How to reach me **maxwellarrigona@gmail.com**
 
 - ⚡ Fun fact **I love to travel, eat, and be outdoors**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
