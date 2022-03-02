@@ -1,37 +1,35 @@
-### Hi, I'm Maxwell!
+<h1 align="center">Hi 👋, I'm Maxwell</h1>
+<h3 align="center">A passionate analytics engineer from Utah</h3>
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=111&logoColor=AAA&style=flat-square&link=)
-![R](https://img.shields.io/static/v1?logo=R&label=&message=R&color=111&logoColor=AAA&style=flat-square&link=)
-&nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
-![dbt](https://img.shields.io/static/v1?logo=dbt&label=&message=dbt&color=111&logoColor=AAA&style=flat-square)
-![snowflake](https://img.shields.io/static/v1?logo=snowflake&label=&message=snowflake&color=111&logoColor=AAA&style=flat-square)
-![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=111&logoColor=AAA&style=flat-square)
-![jupyter](https://img.shields.io/static/v1?logo=jupyter&label=&message=jupyter&color=111&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
-![pluralsight](https://img.shields.io/static/v1?logo=pluralsight&label=&message=pluralsight&color=111&logoColor=AAA&style=flat-square)
+- 🔭 I’m currently working on **my website/portfolio**
 
-#### Aspiring Analytics Engineer &#12299;_currently learning more about dbt, snowflake, and SQL_
-----
-### Check out my other work:
+- 🌱 I’m currently learning **dbt, snowflake, SQL**
 
-<a href="https://medium.com/@maxwellarrigona">
-  <img align="left" alt="Maxwell's Medium Page" width="42px" src="https://github.com/maxwellarrigona/maxwellarrigona/blob/main/icons/medium.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://dev.to/maxwellarrigona">
-  <img align="left" alt="Maxwell's Dev.to Page" width="42px" src="https://github.com/maxwellarrigona/maxwellarrigona/blob/main/icons/devdotto.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/maxwell--johnson/">
-  <img align="left" alt="Maxwell's LinkedIn" width="37px" src="https://github.com/maxwellarrigona/maxwellarrigona/blob/main/icons/linkedin.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.kaggle.com/maxwellarrigona">
-  <img align="left" alt="Maxwell's Kaggle Page" width="50px" src="https://github.com/maxwellarrigona/maxwellarrigona/blob/main/icons/kaggle.svg" />
-</a>
+- 👯 I’m looking to collaborate on **anything**
 
+- 🤝 I’m looking for help with **data modeling**
+
+- 👨‍💻 All of my projects will be available at [maxwellarrigona.com](maxwellarrigona.com)
+
+- 📝 I will be writing articles on [https://medium.com/@maxwellarrigona](https://medium.com/@maxwellarrigona)
+
+- 💬 Ask me about **SQL queries, data joins, and tacos**
+
+- 📫 How to reach me **maxwellarrigona@gmail.com**
+
+- ⚡ Fun fact **I love to travel, eat, and be outdoors**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/maxwellarrigona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/maxwellarrigona" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/maxwell--johnson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maxwell--johnson/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/maxwellarrigona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/maxwellarrigona" height="30" width="40" /></a>
+<a href="https://medium.com/@maxwellarrigona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maxwellarrigona" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
