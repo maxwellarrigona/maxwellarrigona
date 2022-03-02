@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maxwell</h1>
 <h3 align="center">A passionate analytics engineer from Utah</h3>
 
-- 🔭 I’m currently working on **my website/portfolio**
+- 🔭 I’m currently working on: **my website/portfolio and SQL interview questions**
 
-- 🌱 I’m currently learning **dbt, snowflake, SQL**
+- 🌱 I’m currently learning: **dbt, snowflake, SQL**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on: **anything related to data**
 
-- 💬 Ask me about **SQL queries, data joins, and tacos**
+- 💬 Ask me about: **SQL queries, data joins, and tacos**
 
-- 📫 How to reach me **maxwellarrigona@gmail.com**
-
-- ⚡ Fun fact **I love to travel, eat, and be outdoors**
+- ⚡ Fun fact: **I love to travel, eat, and be outdoors**
 
 
 <h3 align="left">Connect with me:</h3>
