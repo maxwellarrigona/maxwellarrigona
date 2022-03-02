@@ -7,6 +7,6 @@
 
 - 👯 I’m looking to collaborate on: **anything related to data**
 
-- 💬 Ask me about: **SQL queries, data joins, and tacos**
+- 💬 Ask me about: **SQL queries, data joins, or just anything you want**
 
 - ⚡ Fun fact: **I love to travel, eat, and be outdoors**
