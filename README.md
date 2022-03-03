@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on: **anything related to data**
 
-- 💬 Ask me about: **SQL queries, data joins, or just anything you want**
+- 🗣️ Ask me about: **SQL queries, data joins, or just anything you want**
 
-- ⚡ Fun fact: **I love to travel, eat, and be outdoors**
+- 💭 One day I hope to: **work for Apple as an engineer**
+
+- ⚡ Fun fact: **I love to travel, taste amazing things, and be outdoors**
