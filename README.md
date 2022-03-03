@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maxwell</h1>
+<h1 align="center">Hello World, I'm Maxwell</h1>
 <h3 align="center">A passionate analytics engineer from Utah</h3>
 
 - 🔭 I’m currently working on: **my website/portfolio and SQL interview questions**
